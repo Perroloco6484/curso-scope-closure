@@ -8,5 +8,5 @@ function greeting() {
 }
 
 const g = greeting();
-console.log();
+console.log(g);
 console.log(g());
